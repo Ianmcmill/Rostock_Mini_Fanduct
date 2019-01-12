@@ -10,7 +10,7 @@ Please commit/share any changes only here. I don't allow any upload on thingiver
 
 Modified fanduct to fit on Rostock Mini.
 
-For more information, read capotexl.de
+For more information, read https://capotexl.de/blog/2019/01/12/toolson-fanduct-v3-for-rostock-mini/
 
 This is published under CC BY-NC-SA 4.0
 
