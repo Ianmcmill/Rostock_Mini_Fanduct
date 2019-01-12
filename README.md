@@ -2,11 +2,12 @@
 Modified version of https://github.com/toolson/fanduct_v3 to fit Rostock Mini
 
 
-Based on #toolson's fandcut v3
+Based on 
+#toolson's fandcut v3
 
 ##released under CC BY-NC-SA 4.0
 
-Please commit/share any changes only here. I don't allow any upload on thingiverse and youmagine!!!
+As the author states: "Please commit/share any changes only here." So be it.
 
 Modified fanduct to fit on Rostock Mini.
 
