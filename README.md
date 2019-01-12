@@ -22,3 +22,6 @@ e3d v6 3d model taken from https://grabcad.com/library/e3d-v6-1-75mm-bowden-1
 
 e3d v6 is published and sold by https://e3d-online.com
 
+![picture](/fanduct_v3_rostock.jpg)
+
+![picture](/fanduct_v3_rostock_b.jpg)
